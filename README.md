@@ -3,4 +3,5 @@
 *Ottobre 2025* 🎥🍿
 --- 
 *Applicazione*
-[Immagine applicazione](./images/Screenshot 2025-12-01 135532.png)
+---
+![Immagine applicazione](./images/Screenshot 2025-12-01 135532.png)
