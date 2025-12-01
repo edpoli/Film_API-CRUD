@@ -1,0 +1,25 @@
+{
+  "films": [
+    {
+      "id": "f14d",
+      "title": "2001: Odissea nello spazio",
+      "regista": "Kubrick",
+      "anno": "1968",
+      "voto": "5"
+    },
+    {
+      "id": "9dcd",
+      "title": "Goodfellas",
+      "regista": "Scorsese",
+      "anno": "",
+      "voto": ""
+    },
+    {
+      "id": "dde9",
+      "title": "Coppola",
+      "regista": "Megalopolis",
+      "anno": "2024",
+      "voto": "4"
+    }
+  ]
+}
