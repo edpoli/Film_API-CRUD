@@ -5,3 +5,7 @@
 *Applicazione*
 ---
 ![Immagine applicazione](./images/applicazione.png)
+---
+*Modifica*
+---
+![Immagine tasto modifica](./images/modifica.png)
