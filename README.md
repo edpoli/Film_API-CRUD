@@ -4,4 +4,4 @@
 --- 
 *Applicazione*
 ---
-![Immagine applicazione](./img/Screenshot 2025-12-01 135532.png)
+![Immagine applicazione](./images/applicazione.png)
